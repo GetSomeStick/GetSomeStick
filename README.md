@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft and Plugin
 - 🌱 I’m currently learning Python and Nodejs
 - 📫 How to reach me 
-  - Discord: Stick#4441
+  - Discord: 
 
 <!---
 GetSomeStick/GetSomeStick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
